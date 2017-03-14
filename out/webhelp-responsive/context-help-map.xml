@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map>
-   <appContext helpID="c-intro" path="concepts/c-intro.html"/>
-   <appContext helpID="t-pack" path="tasks/t-pack.html"/>
-   <appContext helpID="task_lk3_gsn_cz" path="tasks/t-drive.html"/>
-   <appContext helpID="t-house" path="tasks/t-house.html"/>
-   <appContext helpID="t-beach" path="tasks/t-beach.html"/>
-</map>

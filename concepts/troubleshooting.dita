@@ -11,13 +11,22 @@
     <troubleSolution>
       <cause>
         <title/>
-        <p>The owner double booked the place that you are staying at</p>
+        <p>The owner double-booked the place that you are staying at.</p>
       </cause>
       <remedy>
         <responsibleParty/>
         <steps-unordered>
           <step>
-            <cmd/>
+            <cmd>Stop freaking out.</cmd>
+          </step>
+          <step>
+            <cmd>Look at the place that you are now being told to stay at.</cmd>
+          </step>
+          <step>
+            <cmd>Decide if you want to drive home or stay in the new house.</cmd>
+          </step>
+          <step>
+            <cmd>Discuss a new payment option.</cmd>
           </step>
         </steps-unordered>
       </remedy>
