@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-beach">
+    <title>How to Go to the Beach</title>
+    <shortdesc>The beach is going to be warm and sunny. Here is how to enjoy it best.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Put on your bathing suit.</cmd>
+            </step>
+            <step>
+                <cmd>Find your towel</cmd>
+            </step>
+            <step>
+                <cmd>Put on sunscreen.</cmd>
+            </step>
+            <step>
+                <cmd>Get a cooler and fill it with drinks and snacks.</cmd>
+            </step>
+            <step>
+                <cmd>Walk the 4 blocks to the beach.</cmd>
+            </step>
+            <step>
+                <cmd>Sit down in the sand and enjoy the drinks and snacks.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-pack">
+    <title>How to Pack</title>
+    <shortdesc>Packing will take virtually no time at all with this guide.</shortdesc>
+    <taskbody>
+        <context>Be sure to start packing at least 2 hours before leaving.<p/></context>
+        <steps>
+            <step>
+                <cmd>Get a suitcase that will be large enough for a week.</cmd>
+            </step>
+            <step>
+                <cmd>Pack all of the clothing that you will need, including swimwear.</cmd>
+            </step>
+            <step>
+                <cmd>Pack all of the electronics that you will want and their chargers.</cmd>
+            </step>
+            <step>
+                <cmd>Pack all of the homework that you will have to do, but won't.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

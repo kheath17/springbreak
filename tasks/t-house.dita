@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-house">
+    <title>How to Get into the AirBNB</title>
+    <shortdesc>This will help you to navigate the interactions with the owner.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You cannot enter the house until 10 a.m. in Saturday morning.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Text the owner an hour before you plan to arrive.</cmd>
+            </step>
+            <step>
+                <cmd>Meet the owner at the house and get the key.</cmd>
+            </step>
+            <step>
+                <cmd>Receive a tour from the owner and ask any questions that you have. *be respectful*</cmd>
+            </step>
+            <step>
+                <cmd>Unpack, and get ready to have fun.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

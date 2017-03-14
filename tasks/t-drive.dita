@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lk3_gsn_cz">
+    <title>How to Drive to Miami</title>
+    <shortdesc>This will tell you how to get to Miami by the fastest route</shortdesc>
+    <taskbody>
+        <context>
+            <p>Be sure to always wear a seatbelt, and always pay attention to the road.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pick up all of your friends.</cmd>
+            </step>
+            <step>
+                <cmd>drive to I-95 South.</cmd>
+            </step>
+            <step>
+                <cmd>Drive all the way to Miami in 13 hours.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
